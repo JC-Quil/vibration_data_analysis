@@ -1,4 +1,4 @@
-# vibration Data analysis
+# Vibration Data analysis
 
 ### Objective
 
